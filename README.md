@@ -5,7 +5,7 @@
 
 # Piss and Shit
 
-For public context and understanding, this is a port of the Piss and Shit mod to the latest version of tModLoader, given the original project is considered abandoned.
+For public context and understanding, this is a port of the Piss and Shit mod to the latest version of tModLoader, given the original project is considered abandoned. The original source can be seen [here](https://github.com/efcawesome/PissAndShit).
 
 ## Missing Features
 
