@@ -1,11 +1,23 @@
-# Piss And Shit
+[![total-mod-downloads](https://img.shields.io/github/downloads/naakaamura/piss-and-shit/total?style=flat-square)](https://github.com/naakaamura/piss-and-shit/releases) 
+[![open-issues](https://img.shields.io/github/issues/naakaamura/piss-and-shit?style=flat-square)](https://github.com/naakaamura/piss-and-shit/issues) 
+[![open-prs](https://img.shields.io/github/issues-pr/naakaamura/piss-and-shit?style=flat-square)](https://github.com/naakaamura/piss-and-shit/pulls) 
+[![current-release](https://img.shields.io/github/v/release/naakaamura/piss-and-shit?style=flat-square)](https://github.com/naakaamura/piss-and-shit/releases)
 
-[![discord-link](https://img.shields.io/discord/734940386363047968?style=flat-square)](https://discord.gg/G8yZQTX) [![total-mod-downloads](https://img.shields.io/github/downloads/musicman655/PissAndShit/total?style=flat-square)](https://github.com/musicman655/PissAndShit/releases) [![open-issues](https://img.shields.io/github/issues/musicman655/PissAndShit?style=flat-square)](https://github.com/musicman655/PissAndShit/issues) [![open-prs](https://img.shields.io/github/issues-pr/musicman655/PissAndShit?style=flat-square)](https://github.com/musicman655/PissAndShit/pulls) [![current-release](https://img.shields.io/github/v/release/musicman655/PissAndShit?style=flat-square)](https://github.com/musicman655/PissAndShit/releases)
+# Piss and Shit
 
-Welcome to the source code repository for the Piss And Shit Terraria mod (known as `The Super Funny High Quality Community Made Content Mod` in-game)!
+For public context and understanding, this is a port of the Piss and Shit mod to the latest version of tModLoader, given the original project is considered abandoned.
 
-Feel free to contribute sprites, code, ideas, music, whatever you have (but submit it in the Discord server first) !
+## Missing Features
 
-Piss and shit mod discord is unfortunatly gone :((((
+Some features were left behind, as they either had no impact in gameplay, or just were not worth the time. They are listed down below:
 
-<sup>made with :ech:, coffee, shitposts and the community</sup>
+* Music Boxes
+* Daedalus Class
+
+## Original Contributors
+
+Credits are all due the original developers and maintainers of the project.
+
+<a href="https://github.com/efcawesome/PissAndShit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=efcawesome/PissAndShit&max=900&columns=20"/>
+</a>
